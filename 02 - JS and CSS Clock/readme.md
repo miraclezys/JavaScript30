@@ -39,7 +39,7 @@
    const secondsDegrees = (seconds / 60) * 360;
    ```
 
-   因为时针，分针，秒针开始的其实角度是
+   因为时针，分针，秒针开始的起始角度是
 
    ![clock](./image/img1.png)
 
@@ -56,15 +56,15 @@
    secondHand.style.transform = `rotate(${secondsDegrees}deg)`;
    ```
 
-   同理，分针和时针的转动角度也是这么计算的，不过分针的转动角度需要在基础上加上秒针的转动角度，时针的转动角度需要在基础上加上分针的转动角度。
+   同理，分针和时针的转动角度也是这么计算的，不过分针的转动角度需要在基础上加上秒针的转动角度，时针的转动角度需要在基础上加上分针和秒针的转动角度。
 
    ```javascript
    const mins = now.getMinutes();
-   const minsDegrees = (mins / 60) * 360 + (seconds / 60) * 6 + 90;
+   const minsDegrees = (mins / 60) * 360 + ((seconds / 60) / 60) * 360 + 90;
    minHand.style.transform = `rotate(${minsDegrees}deg)`;
 
    const hours = now.getHours();
-   const hoursDegrees = (hours / 12) * 360 + (mins / 60) * 30 + 90;
+   const hoursDegrees = (hours / 12) * 360 + ((mins / 60) / 12) * 360 + ((seconds / 60) / 60 / 12) * 360 + 90;
    hourHand.style.transform = `rotate(${hoursDegrees}deg)`;
    ```
 
