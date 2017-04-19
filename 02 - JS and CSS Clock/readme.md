@@ -48,8 +48,6 @@
 
    ![clock](./image/img3.png)
 
-   ​
-
    所以秒针旋转的角度需要加上90度：
 
    ```javascript
