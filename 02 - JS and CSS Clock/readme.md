@@ -8,6 +8,8 @@
 
 [点击查看效果](https://miraclezys.github.io/JavaScript30/02%20-%20JS%20and%20CSS%20Clock/index-ME.html)
 
+![clock](./image/b.gif)
+
 ### 相关知识点
 
 * [window.setInterval](https://developer.mozilla.org/zh-CN/docs/Web/API/Window/setInterval)
@@ -42,13 +44,11 @@
    const secondsDegrees = (seconds / 60) * 360;
    ```
 
-   因为时针，分针，秒针开始的起始角度是
+   因为时针，分针，秒针实际的起始角度和我们希望的起始角度不同：
 
-   ![clock](./image/img1.png)
+   ![clock](./image/img3.png)
 
-   但是起始计算角度应为：
-
-   ![clock](./image/img2.png)
+   ​
 
    所以秒针旋转的角度需要加上90度：
 
