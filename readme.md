@@ -38,3 +38,4 @@ JavaScript30指的是在30天中，完成30个挑战，不借助任何框架、�
 * 01 - JavaScript Drum Kit | [效果](https://miraclezys.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
 * 02 - JS and CSS Clock | [效果](https://miraclezys.github.io/JavaScript30/02%20-%20JS%20and%20CSS%20Clock/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock)
 * 03 - CSS Variables | [效果](https://miraclezys.github.io/JavaScript30/03%20-%20CSS%20Variables/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/03%20-%20CSS%20Variables)
+* 04 - Array Cardio Day 1 | [效果](https://miraclezys.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%201)
