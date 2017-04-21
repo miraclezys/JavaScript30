@@ -6,72 +6,54 @@
 
 ## 效果预览
 
-[点击查看效果](https://miraclezys.github.io/JavaScript30/03%20-%20CSS%20Variables/index-ME.html)
-
-
+[点击查看效果](https://miraclezys.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201/index-ME.html)
 
 ### 相关知识点
 
-* [了解CSS/CSS3原生变量var](http://www.zhangxinxu.com/wordpress/2016/11/css-css3-variables-var/)
-* [document.documentElement](https://developer.mozilla.org/zh-CN/docs/Web/API/Document/documentElement)
-* [CSSStyleDeclaration.setProperty()](https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleDeclaration/setProperty)
-* [HTMLElement.dataset](https://developer.mozilla.org/zh-CN/docs/Web/API/HTMLElement/dataset)
-* [:root](https://developer.mozilla.org/zh-CN/docs/Web/CSS/:root)
+* [Array.prototype.map()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+* [Array.prototype.filter()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+* [Array.prototype.reduce()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
+* [Array.prototype.sort()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
+* [String.prototype.includes()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String/includes)
 
 ## 步骤
 
-1. 添加属性
+> 认真看一下上面的几个方法就能做出来啦
 
-   1. 首先在根节点添加对应的自定义属性
+1. 找出16世纪出生的发明家
+2. 展示发明家的`first name`和`last name`
+3. 按照发明家的出生年份排序，出生年份越早越靠前
+4. 发明家们一共活了多少年
+5. 按照发明家活的时间排序，活得越久越靠前
+6. 筛选`https://en.wikipedia.org/wiki/Category:Boulevards_in_Paris`中的数据，找出大道名字包含`de`的大道列表
+7. 根据`people`的`last name`进行排序
+8. 统计`data`中每种种类的总数
 
-      >  定义的语法：`--*`，*指的是变量名 
+## 小tips
 
+如果需要输出数组查看结果，并且数组的每项还拥有多个属性，那么使用`console.table()`查看结果会更加直观。
 
-   2. 给对应的`<img>`和`.hl`添加对应的属性
+例子：
 
-      > 使用的语法：`var(--*)`，*指的是变量名
+```javascript
+const inventors = [
+      { first: 'Albert', last: 'Einstein', year: 1879, passed: 1955 },
+      { first: 'Isaac', last: 'Newton', year: 1643, passed: 1727 },
+      { first: 'Galileo', last: 'Galilei', year: 1564, passed: 1642 },
+      { first: 'Marie', last: 'Curie', year: 1867, passed: 1934 },
+      { first: 'Johannes', last: 'Kepler', year: 1571, passed: 1630 },
+      { first: 'Nicolaus', last: 'Copernicus', year: 1473, passed: 1543 },
+      { first: 'Max', last: 'Planck', year: 1858, passed: 1947 },
+      { first: 'Katherine', last: 'Blodgett', year: 1898, passed: 1979 },
+      { first: 'Ada', last: 'Lovelace', year: 1815, passed: 1852 },
+      { first: 'Sarah E.', last: 'Goode', year: 1855, passed: 1905 },
+      { first: 'Lise', last: 'Meitner', year: 1878, passed: 1968 },
+      { first: 'Hanna', last: 'Hammarström', year: 1829, passed: 1909 }
+    ];
+console.table(inventors);
+```
 
-3. 给对应的`<input>`添加`change`和`mousemove`事件，当`<input>`的值改变时，修改对应属性的值
+输出结果：
 
+![result](./image/img1.png)
 
-## 问题
-
-1. 为什么要使用自定义属性呢？
-
-   因为用起来方便啊(我是这么认为的٩(๑❛ᴗ❛๑)۶)。
-
-   比如在根元素上定义了如下属性：
-
-   ```css
-   :root {
-     --spacing: 10px;
-     --blur: 10px;
-     --base: #ffc600;
-   }
-   ```
-
-   然后应用在了`<img>`和`.hl`上：
-
-   ```css
-   img {
-     padding: var(--spacing);
-     filter: blur(var(--blur));
-     background-color: var(--base);
-   }
-
-   .hl {
-     color: var(--base);
-   }
-   ```
-
-   我们可以看到，`<img>`的`background-color`和`.hl`的`color`使用的是同一个值`var(--base)`。那么当我们想修改`<img>`的`background-color`的值的时候，`.hl`的`color`的值也是需要修改的，这样就很麻烦了，特别是数量多的时候。
-
-   如果使用的是自定义属性，我们在根元素中定义了`--base`，然后`<img>`的`background-color`和`.hl`的`color`使用的值时`var(--base)`，如果我们想要修改`<img>`的`background-color`，我们只需要修改根元素上的`--base`的值，`<img>`的`background-color`和`.hl`的`color`就会跟着改变，是不是特别方便！
-
-   这只是在任务中体现比较明显的一个好处，自定义属性还有很多优点和用途值得研究哦。
-
-   ​
-
-2. 如何在拖动滑块时，图片效果同步改变？
-
-   给对应的`<input>`添加`mousemove`事件，当`<input>`的值改变时，修改对应属性的值
