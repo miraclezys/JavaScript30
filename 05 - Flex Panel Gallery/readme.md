@@ -24,8 +24,6 @@
 
    ![start](./image/img1.jpg)
 
-   所以我们首先要将它们变成横向分布：
-
    1. 首先，我们将图片改成横向分布：
 
       ```css
@@ -94,7 +92,7 @@
    5. 给每个`.panel`增加`click`和`transitionend`事件
 
       1. 当点击图片时，给`.panel`的`classList`增加`.open`，即图片所占据的位置增大，字号也增大
-      2. 当transitionend 事件会在 [CSS transition](https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions) 给`.panel`的`classList`增加`.open-active`，即第一行和第三行字体显示出来
+      2. 当transitionend 事件会在 [CSS transition](https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions) 结束后给`.panel`的`classList`增加`.open-active`，即第一行和第三行字体显示出来
 
 ## 问题
 
