@@ -50,4 +50,6 @@ JavaScript30指的是在30天中，完成30个挑战，不借助任何框架、�
 
 * 07 - Array Cardio Day 2 | [效果](https://miraclezys.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%202/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/07%20-%20Array%20Cardio%20Day%202)
 
+* 08 - Fun with HTML5 Canvas | [效果](https://miraclezys.github.io/JavaScript30/08%20-%20Fun%20with%20HTML5%20Canvas/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas)
+
   ​
