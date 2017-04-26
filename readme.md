@@ -28,7 +28,7 @@ JavaScript30指的是在30天中，完成30个挑战，不借助任何框架、�
   - **index-FINISHED.html**：已经实现了最终效果的文档，可以查看效果和实现思路。(在教程视频中也会体会到一步步的实现思路)
   - **index-ME.html**：是我根据教学视频和任务要求编写。
 
-* [缉熙Soyaine编写的中文指南](https://github.com/soyaine/JavaScript30)：里面会有每个挑战中注意的问题，问题该如何解决的一些思路，写得挺详细的，值得参考，这个`readme.md`也有参考她写的中文指南。
+* [缉熙Soyaine编写的中文指南](https://github.com/soyaine/JavaScript30)：里面会有每个挑战中注意的问题，问题该如何解决的一些思路，写得挺详细的，值得参考，这个`readme.md`也有参考她写的中文指南。（不过目前她好像还没有写完）
 
 ## 初衷
 
