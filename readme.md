@@ -54,6 +54,8 @@ JavaScript30指的是在30天中，完成30个挑战，不借助任何框架、�
 
 * 09 - Dev Tools Domination | [效果](https://miraclezys.github.io/JavaScript30/09%20-%20Dev%20Tools%20Domination/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/09%20-%20Dev%20Tools%20Domination)
 
+* 10 - Hold Shift and Check Checkboxes | [效果](https://miraclezys.github.io/JavaScript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)
+
   ​
 
   ​
