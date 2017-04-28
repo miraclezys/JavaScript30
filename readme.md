@@ -60,6 +60,4 @@ JavaScript30指的是在30天中，完成30个挑战，不借助任何框架、�
 
 * 12 - Key Sequence Detection | [效果](https://miraclezys.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/12%20-%20Key%20Sequence%20Detection)
 
-  ​
-
-  ​
+  ​​
