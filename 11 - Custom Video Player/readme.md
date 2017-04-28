@@ -140,3 +140,25 @@
 2. 什么时候需要更新播放进度条？
 
    当视频当前播放位置发生改变时，所以我当视频的`timeupdate`事件触发时，执行函数`handleProgress()`。而当我们拖动进度条时，直接修改视频当前播放时间，就会触发视频的`timeupdate`事件，执行函数`handleProgress()` ，从而修改视频的播放进度条。
+
+## 小tips
+
+可以增加点击键盘上的左右箭头，实现前进或后退的功能哦
+
+```javascript
+function keyChange(event) {
+	console.log(event.keyCode);
+	switch(event.keyCode) {
+		case 39:
+			video.currentTime += 25;
+		case 37:
+			video.currentTime -= 10;
+		default:
+			return;
+	};
+}
+
+window.addEventListener('keydown', keyChange);
+```
+
+本来还想实现点击空格键原本播放的视频暂停的，但是发现浏览器已经自身实现了。

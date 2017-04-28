@@ -34,6 +34,18 @@ function scrub(event) {
 	video.currentTime = scrbTime;
 }
 
+function keyChange(event) {
+	console.log(event.keyCode);
+	switch(event.keyCode) {
+		case 39:
+			video.currentTime += 25;
+		case 37:
+			video.currentTime -= 10;
+		default:
+			return;
+	};
+}
+
 video.addEventListener('play', updateButton);
 video.addEventListener('pause',updateButton);
 video.addEventListener('click', togglePlay);
@@ -49,3 +61,5 @@ progress.addEventListener('click', scrub);
 progress.addEventListener('mousemove', (event) => mousedown && scrub(event));
 progress.addEventListener('mousedown', () => mousedown = true);
 progress.addEventListener('mouseup', () => mousedown = false);
+
+window.addEventListener('keydown', keyChange);
