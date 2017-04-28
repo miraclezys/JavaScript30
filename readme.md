@@ -58,6 +58,8 @@ JavaScript30指的是在30天中，完成30个挑战，不借助任何框架、�
 
 * 11 - Custom Video Player | [效果](https://miraclezys.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/index.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player)
 
+* 12 - Key Sequence Detection | [效果](https://miraclezys.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/12%20-%20Key%20Sequence%20Detection)
+
   ​
 
   ​
