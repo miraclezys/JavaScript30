@@ -30,7 +30,6 @@ function handleProgress() {
 }
 
 function scrub(event) {
-	console.log(mousedown);
 	const scrbTime = (event.offsetX / progress.offsetWidth) * video.duration;
 	video.currentTime = scrbTime;
 }
