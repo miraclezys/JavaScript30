@@ -56,7 +56,7 @@ JavaScript30指的是在30天中，完成30个挑战，不借助任何框架、�
 
 * 10 - Hold Shift and Check Checkboxes | [效果](https://miraclezys.github.io/JavaScript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)
 
-* 11 - Custom Video Player | [效果](https://miraclezys.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/index.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player)
+* 11 - Custom Video  Player | [效果](https://miraclezys.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/index.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player)
 
   ​
 
