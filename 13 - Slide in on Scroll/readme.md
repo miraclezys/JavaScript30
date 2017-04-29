@@ -36,7 +36,7 @@
 
    `window.scrollY`指的是文档在垂直方向已滚动的像素值，`window.innerHeight`指的是浏览器窗口的视口高度，`slideImage.height`指的是图片的高度。
 
-   所以`slideInAt`等于图片的一半高度位于浏览器窗口的下边界时距离整个文档的垂直方向的像素值
+   所以`slideInAt`等于文档在垂直方向已滚动的像素加上浏览器窗口视口的高度减去图片的一半高度
 
    表达起来可能有点难理解，看一下下面这张图应该会比较好理解：
 
@@ -61,7 +61,7 @@
 
    `isHalfButtom`是判断图片是否已经在浏览器窗口中出现一半了，如果已出现一半，为true
 
-   `isNotScrolledPast`是判断图片是否已不在浏览器窗口上，如果还未完整出现，为true
+   `isNotScrolledPast`是判断图片是否已不在浏览器窗口上，如图片还在当前浏览器窗口，为true
 
    ```javascript
    if(isHalfButtom && isNotScrolledPast) {
@@ -163,7 +163,7 @@
 
    `throttle`是指预先设定了触发函数的周期，在执行某个操作时，每个周期内执行一次触发函数。
 
-   在处理高频率触发的DOM事件是，它们都能够提高用户体验。
+   在处理高频率触发的DOM事件时，它们都能够提高用户体验。
 
    应用场景：
 
