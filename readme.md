@@ -37,27 +37,16 @@ JavaScript30指的是在30天中，完成30个挑战，不借助任何框架、�
 ## 目录
 
 * 01 - JavaScript Drum Kit | [效果](https://miraclezys.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
-
 * 02 - JS and CSS Clock | [效果](https://miraclezys.github.io/JavaScript30/02%20-%20JS%20and%20CSS%20Clock/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock)
-
 * 03 - CSS Variables | [效果](https://miraclezys.github.io/JavaScript30/03%20-%20CSS%20Variables/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/03%20-%20CSS%20Variables)
-
 * 04 - Array Cardio Day 1 | [效果](https://miraclezys.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%201)
-
 * 05 - Flex Panel Gallery | [效果](https://miraclezys.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/05%20-%20Flex%20Panel%20Gallery)
-
 * 06 - Type Ahead | [效果](https://miraclezys.github.io/JavaScript30/06%20-%20Type%20Ahead/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/06%20-%20Type%20Ahead)
-
 * 07 - Array Cardio Day 2 | [效果](https://miraclezys.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%202/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/07%20-%20Array%20Cardio%20Day%202)
-
 * 08 - Fun with HTML5 Canvas | [效果](https://miraclezys.github.io/JavaScript30/08%20-%20Fun%20with%20HTML5%20Canvas/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas)
-
 * 09 - Dev Tools Domination | [效果](https://miraclezys.github.io/JavaScript30/09%20-%20Dev%20Tools%20Domination/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/09%20-%20Dev%20Tools%20Domination)
-
 * 10 - Hold Shift and Check Checkboxes | [效果](https://miraclezys.github.io/JavaScript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)
-
 * 11 - Custom Video Player | [效果](https://miraclezys.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/index.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player)
-
 * 12 - Key Sequence Detection | [效果](https://miraclezys.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/12%20-%20Key%20Sequence%20Detection)
+* 13 - Slide in on Scroll | [效果](https://miraclezys.github.io/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/13%20-%20Slide%20in%20on%20Scroll)
 
-  ​​

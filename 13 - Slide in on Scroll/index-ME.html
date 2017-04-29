@@ -61,6 +61,7 @@
     const slideImages = document.querySelectorAll('.slide-in');
 
     function checkSlide(event) {
+      console.count(event);
       slideImages.forEach(slideImage => {
         const slideInAt = (window.scrollY + window.innerHeight) - slideImage.height / 2;
         const imageButtom = slideImage.offsetTop + slideImage.height;
