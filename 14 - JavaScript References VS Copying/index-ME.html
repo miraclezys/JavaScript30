@@ -35,10 +35,12 @@
     console.log(players, team);
     // You might think we can just do something like this:
     team[3] = "hello";
-    players[1] = "a";
+    console.log(players, team);
 
+    players[1] = "a";
+    console.log(players, team);
     // however what happens when we update that array?
-     console.log(players, team);
+     
 
     // now here is the problem!
 
@@ -101,14 +103,10 @@
 
     
     const dev = Object.assign({}, obj);
-    console.log(obj, dev);
-
     dev.social.twitter = '@cool';
     console.log(obj, dev);
 
     const dev2 = JSON.parse(JSON.stringify(obj));
-    console.log(obj, dev2);
-
     dev2.social.twitter = '@hot';
     console.log(obj, dev2);
 
