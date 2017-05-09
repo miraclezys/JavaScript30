@@ -24,9 +24,9 @@ function paintToCanvas() {
 	return setInterval(() => {
 		ctx.drawImage(video, 0, 0, width, height);
 		let pixels = ctx.getImageData(0, 0, width, height);
-		pixels = redEffect(pixels);
+		//pixels = redEffect(pixels);
 		//pixels = rgbSplit(pixels);
-		//pixels = greenScreen(pixels);
+		pixels = greenScreen(pixels);
 		ctx.putImageData(pixels, 0, 0);
 	}, 16);
 }
