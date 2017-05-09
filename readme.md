@@ -56,4 +56,5 @@ JavaScript30指的是在30天中，完成30个挑战，不借助任何框架、�
 * 18 - Adding Up Times with Reduce | [效果](https://miraclezys.github.io/JavaScript30/18%20-%20Adding%20Up%20Times%20with%20Reduce/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/18%20-%20Adding%20Up%20Times%20with%20Reduce)
 * 19 - Webcam Fun | [效果](https://miraclezys.github.io/JavaScript30/19%20-%20Webcam%20Fun/index.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/19%20-%20Webcam%20Fun)
 * 21 - Geolocation | [效果](https://miraclezys.github.io/JavaScript30/21%20-%20Geolocation/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/blob/master/19%20-%20Webcam%20Fun/scripts-ME.js)
+* 22 - Follow Along Link Highlighter | [效果](https://miraclezys.github.io/JavaScript30/22%20-%20Follow%20Along%20Link%20Highlighter/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/22%20-%20Follow%20Along%20Link%20Highlighter)
 
