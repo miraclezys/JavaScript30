@@ -6,7 +6,7 @@
 
 ## 效果预览
 
-[点击查看效果](https://miraclezys.github.io/JavaScript30/24%20-%20Sticky%20Nav/index-ME.html)
+[点击查看效果](https://miraclezys.github.io/JavaScript30/25%20-%20Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once/index-ME.html)
 
 ## 相关知识点
 
