@@ -8,12 +8,6 @@
 
 [点击查看效果](https://miraclezys.github.io/JavaScript30/24%20-%20Sticky%20Nav/index-ME.html)
 
-## 相关知识点
-
-* [SpeechSynthesis](https://developer.mozilla.org/zh-CN/docs/Web/API/SpeechSynthesis)
-* [SpeechSynthesisUtterance](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance)
-* [HTML5语音合成Speech Synthesis API简介](http://www.zhangxinxu.com/wordpress/2017/01/html5-speech-recognition-synthesis-api/)
-
 ## 步骤
 
 1. 当页面滑动导航栏(nav)位置时，给`body`的`classList`添加`fixed-nav`。
