@@ -57,4 +57,7 @@ JavaScript30指的是在30天中，完成30个挑战，不借助任何框架、�
 * 19 - Webcam Fun | [效果](https://miraclezys.github.io/JavaScript30/19%20-%20Webcam%20Fun/index.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/19%20-%20Webcam%20Fun)
 * 21 - Geolocation | [效果](https://miraclezys.github.io/JavaScript30/21%20-%20Geolocation/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/blob/master/19%20-%20Webcam%20Fun/scripts-ME.js)
 * 22 - Follow Along Link Highlighter | [效果](https://miraclezys.github.io/JavaScript30/22%20-%20Follow%20Along%20Link%20Highlighter/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/22%20-%20Follow%20Along%20Link%20Highlighter)
+* 23 - Speech Synthesis | [效果](https://miraclezys.github.io/JavaScript30/23%20-%20Speech%20Synthesis/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/23%20-%20Speech%20Synthesis)
+* 24 - Sticky Nav | [效果](https://miraclezys.github.io/JavaScript30/24%20-%20Sticky%20Nav/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/24%20-%20Sticky%20Nav)
+
 
