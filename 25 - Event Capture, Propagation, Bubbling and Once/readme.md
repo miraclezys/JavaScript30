@@ -21,7 +21,7 @@
 
 1. DOM事件流
 
-   ![show](./image/eventflow.svg)
+   ![show](./image/img2.png)
 
    当一个DOM事件触发时，会经历三个阶段：
 
