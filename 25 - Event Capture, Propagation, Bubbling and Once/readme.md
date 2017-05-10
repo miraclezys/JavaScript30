@@ -21,6 +21,8 @@
 
 1. DOM事件流
 
+   > 参考：原文：[An Introduction To DOM Events](https://www.smashingmagazine.com/2013/11/an-introduction-to-dom-events/) | 翻译：[DOM事件简介](http://blog.jobbole.com/52430/) 
+
    ![show](./image/img2.png)
 
    当一个DOM事件触发时，会经历三个阶段：
