@@ -86,7 +86,7 @@ li.logo a {
 }
 
 .fixed-nav li.logo {
-  max-width: auto;
+  max-width: 500px;
 }
 
 nav a {
