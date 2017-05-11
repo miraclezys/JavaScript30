@@ -216,7 +216,6 @@
 <script>
   const nav = document.querySelector('.top');
   const tiggers = document.querySelectorAll('.cool > li');
-  console.log(tiggers);
   const background = document.querySelector('.dropdownBackground');
 
   function handleEnter() {
@@ -233,8 +232,6 @@
       top: dropdownCoords.top - navCoords.top,
       left: dropdownCoords.left - navCoords.left
     }
-
-
 
     background.classList.add('open');
     background.style.setProperty('width', `${coords.width}px`);

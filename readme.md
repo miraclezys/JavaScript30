@@ -4,7 +4,6 @@
 >
 > 教程作者：[Wes Bos](https://github.com/wesbos)
 >
-> 中文指南作者：[缉熙Soyaine](https://github.com/soyaine)
 
 ## JavaScript30 是什么？
 
@@ -60,5 +59,8 @@ JavaScript30指的是在30天中，完成30个挑战，不借助任何框架、�
 * 23 - Speech Synthesis | [效果](https://miraclezys.github.io/JavaScript30/23%20-%20Speech%20Synthesis/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/23%20-%20Speech%20Synthesis)
 * 24 - Sticky Nav | [效果](https://miraclezys.github.io/JavaScript30/24%20-%20Sticky%20Nav/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/24%20-%20Sticky%20Nav)
 * 25 - Event Capture, Propagation, Bubbling and Once | [效果](https://miraclezys.github.io/JavaScript30/25%20-%20Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/25%20-%20Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once)
+* 26 - Stripe Follow Along Nav | [效果](https://miraclezys.github.io/JavaScript30/26%20-%20Stripe%20Follow%20Along%20Nav/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/26%20-%20Stripe%20Follow%20Along%20Nav)
+* 27 - Click and Drag | [效果](https://miraclezys.github.io/JavaScript30/27%20-%20Click%20and%20Drag/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/27%20-%20Click%20and%20Drag)
+* 28 - Video Speed Controller | [效果](https://miraclezys.github.io/JavaScript30/28%20-%20Video%20Speed%20Controller/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/28%20-%20Video%20Speed%20Controller)
 
 
