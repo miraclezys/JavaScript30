@@ -32,7 +32,7 @@ function displayEndTime(seconds) {
     const hour = end.getHours();
     const adjustedHour = hour > 12 ? hour - 12 : hour;
     const minutes = end.getMinutes();
-    endTime.textContent = `Be back At ${adjustedHour}:${minutes}`;
+    endTime.textContent = `Be back At ${adjustedHour}:${minutes < 10 ? '0' : ''}${minutes}`;
 }
 
 function startTime() {

@@ -68,3 +68,14 @@ h1 {
 .hole.up .mole {
   top:0;
 }
+
+button {
+  background: none;
+  border: 2px solid black;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: -15px;
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 8px;
+}

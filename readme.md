@@ -54,6 +54,7 @@ JavaScript30指的是在30天中，完成30个挑战，不借助任何框架、�
 * 17 - Sort Without Articles | [效果](https://miraclezys.github.io/JavaScript30/17%20-%20Sort%20Without%20Articles/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/17%20-%20Sort%20Without%20Articles)
 * 18 - Adding Up Times with Reduce | [效果](https://miraclezys.github.io/JavaScript30/18%20-%20Adding%20Up%20Times%20with%20Reduce/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/18%20-%20Adding%20Up%20Times%20with%20Reduce)
 * 19 - Webcam Fun | [效果](https://miraclezys.github.io/JavaScript30/19%20-%20Webcam%20Fun/index.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/19%20-%20Webcam%20Fun)
+* 20 - Speech Detection | [效果](https://miraclezys.github.io/JavaScript30/20%20-%20Speech%20Detection/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/20%20-%20Speech%20Detection)
 * 21 - Geolocation | [效果](https://miraclezys.github.io/JavaScript30/21%20-%20Geolocation/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/blob/master/19%20-%20Webcam%20Fun/scripts-ME.js)
 * 22 - Follow Along Link Highlighter | [效果](https://miraclezys.github.io/JavaScript30/22%20-%20Follow%20Along%20Link%20Highlighter/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/22%20-%20Follow%20Along%20Link%20Highlighter)
 * 23 - Speech Synthesis | [效果](https://miraclezys.github.io/JavaScript30/23%20-%20Speech%20Synthesis/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/23%20-%20Speech%20Synthesis)
@@ -62,5 +63,6 @@ JavaScript30指的是在30天中，完成30个挑战，不借助任何框架、�
 * 26 - Stripe Follow Along Nav | [效果](https://miraclezys.github.io/JavaScript30/26%20-%20Stripe%20Follow%20Along%20Nav/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/26%20-%20Stripe%20Follow%20Along%20Nav)
 * 27 - Click and Drag | [效果](https://miraclezys.github.io/JavaScript30/27%20-%20Click%20and%20Drag/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/27%20-%20Click%20and%20Drag)
 * 28 - Video Speed Controller | [效果](https://miraclezys.github.io/JavaScript30/28%20-%20Video%20Speed%20Controller/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/28%20-%20Video%20Speed%20Controller)
-
+* 29 - Countdown Timer | [效果](https://miraclezys.github.io/JavaScript30/29%20-%20Countdown%20Timer/index.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/29%20-%20Countdown%20Timer)
+* 30 - Whack A Mole | [效果](https://miraclezys.github.io/JavaScript30/30%20-%20Whack%20A%20Mole/index-ME.html) | [源码](https://github.com/miraclezys/JavaScript30/tree/master/30%20-%20Whack%20A%20Mole)
 
